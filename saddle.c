@@ -13,7 +13,7 @@ int main() {
    printf("Enter size of row of matrix:");
    scanf("%d", & m);
    
-   printf("Enter size of row of matrix:");
+   printf("Enter size of coloumn of matrix:");
    scanf("%d", & n);
 
    printf("Enter 2D array elements:");
